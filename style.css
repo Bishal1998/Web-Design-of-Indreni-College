@@ -1,0 +1,14 @@
+.navbar-brand img{
+    height: 50px;
+    width: auto;
+}
+.navbar ul li .nav-link{
+    font-size: 18px;
+    font-weight: 5px;
+}
+footer p {
+    margin-left: 37%;
+}
+hr {
+    margin-top: 8%;
+}

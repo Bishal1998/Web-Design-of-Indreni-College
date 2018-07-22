@@ -1,0 +1,23 @@
+nav {
+height: 10%;
+width: auto;
+}
+nav img {
+    height: 100%;
+}
+.media {
+    margin-top: 40px;
+}
+.jumbotron {
+    width: auto;
+    height: 10%;
+}
+.container h1 {
+    text-align: center;
+}
+footer p {
+    margin-left: 37%;
+}
+hr {
+    margin-top: 8%;
+}
